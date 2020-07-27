@@ -1,0 +1,14 @@
+﻿  hello_opengl.cpp
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(58,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(62,83): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(63,83): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(84,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(88,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(89,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(160,23): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(161,33): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\OpenGL_project\hello_opengl.cpp(158,8): warning C4101: 'i': unreferenced local variable
+  OpenGL_project.vcxproj -> C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\x64\Debug\OpenGL_project.exe
+  C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\\bin\freeglut.dll
+  C:\Users\Ali\Desktop\graphics 2nd assgmnt\lets try\\bin\freeglutd.dll
+  2 File(s) copied

@@ -1,0 +1,18 @@
+﻿  hello_opengl.cpp
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(69,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(73,83): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(74,83): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(86,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(87,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(109,36): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(113,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(114,85): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(221,23): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(222,33): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(228,27): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(229,37): warning C4244: '=': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\OpenGL_project\hello_opengl.cpp(219,8): warning C4101: 'i': unreferenced local variable
+  OpenGL_project.vcxproj -> C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\x64\Debug\OpenGL_project.exe
+  C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\\bin\freeglut.dll
+  C:\Users\Ali\Desktop\UNI STUFF\Computer graphics\graphics 2nd assgmnt\lets try  4point - drg ndrop\\bin\freeglutd.dll
+  2 File(s) copied
